@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**MohammadAmitHasan/MohammadAmitHasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello there! I'm a passionate Frontend Engineer with a keen interest in delving into core engineering concepts across the web. You'll often find me immersing myself in conferences and devouring articles from diverse corners of the Internet.
 
-Here are some ideas to get you started:
+🚀 Let me give you a glimpse of my skills and what I'm all about:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Problem-Solving Maven: I've successfully tackled over 100 problems leveraging Data Structures and Algorithms. Whether it's on platforms like LeetCode, GeeksForGeeks, or Coding Ninja, I thrive on cracking challenging problems.
+
+🛠️ Technical Arsenal:
+
+Languages: JavaScript, C++
+Web Expertise: React.js, Redux.js, Next.js, Webpack
+Tools: Git, MySQL, Oracle
+Course Work: A solid foundation in Data Structures, Algorithms, and Object-Oriented Programming (OOPs)
+My journey is fueled by a love for continuous learning and a relentless pursuit of excellence in the ever-evolving landscape of web development. Join me as I explore, code, and innovate! 💻✨
